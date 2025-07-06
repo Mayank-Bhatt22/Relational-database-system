@@ -5,3 +5,4 @@ Each table has a primary role, and you're using primary keys to uniquely identif
 For example, departments are linked to branches, employees are linked to departments, and products are linked to both employees and branches. 
 This setup reflects real-world business scenarios, helping you understand how to model data efficiently, maintain data integrity, and use normalized design principles.
 It's a strong foundation in database management and a critical skill for roles in data analysis, backend development, and data engineering.
+ok
